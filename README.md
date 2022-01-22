@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Cyril</h1>
-<h3 align="center"><i> :technologist: I'm a beginner in coding</h3></i>
+
 
 
 ## 🙋‍♂️ About Me
