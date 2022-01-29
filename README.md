@@ -4,7 +4,7 @@
 
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ 
 
 - 🔭 Specialising</i> in <b> AI&DS
 
