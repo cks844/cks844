@@ -1,6 +1,6 @@
 
 
-<h1 align="center">https://readme-typing-svg.herokuapp.com?color=%23C6F77D&lines=Hi%2CI'm+Cyril</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">I'm Cyril> width="30px">,</h1>
 
 
 
