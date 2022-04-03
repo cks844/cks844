@@ -22,7 +22,7 @@
 </p>
 
 
-## <p align="center">Connect with me:
+## <p align="center">Connect me:
 <p align="center">
 <a href = "https://www.linkedin.com/in/cyril-k-sony-8b1831201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/CyrilSony"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
