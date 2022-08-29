@@ -5,7 +5,7 @@
 - 🔭 Specialising</i> in <b> AI&DS</p>
 -  &#9997; Learner | Tech-enthusiast</b>
 -  📫Reach me:<i>**cyrilksony@gmail.com**</i>
-
+</p>
 ## <p align="center">Programming Languages:
 
 <p align="center"> 
