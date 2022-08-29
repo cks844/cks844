@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Cyril</h1>
-
-- 🔭 Specialising</i> in <b> AI&DS
+<p align="center">
+- 🔭 Specialising</i> in <b> AI&DS</p>
 -  &#9997; Learner | Tech-enthusiast</b>
 -  📫Reach me:<i>**cyrilksony@gmail.com**</i>
 
