@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Cyril</h1>
 
-- 🔭 Specialising</i> in <b> AI&DS</p>
+- 🔭 Specialising</i> in <b> AI&DS
 -  &#9997; Learner | Tech-enthusiast</b>
 -  📫Reach me:<i>**cyrilksony@gmail.com**</i>
 
